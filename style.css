@@ -1,0 +1,24 @@
+body{
+    background-color: darkcyan;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    height: 600px;
+    width: 400px;
+    border: 10px solid green;
+}
+
+a {
+    cursor: wait;
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(0, 0,  0);
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(70, 241, 204);
+    height: 30px;
+    width: 200px;
+}
+        
